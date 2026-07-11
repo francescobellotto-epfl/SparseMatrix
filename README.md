@@ -183,16 +183,3 @@ Efficient sparse data structures are essential for scaling algorithms to large r
 ```
 
 ---
-
-## Author
-
-Statistics PhD student with interests in:
-
-* Machine Learning
-* Artificial Intelligence
-* Scientific Computing
-* Quantitative Research
-* Numerical Optimization
-* High-performance C++
-
-This project was developed as an exercise in implementing efficient numerical data structures and understanding the design choices behind sparse linear algebra libraries.
